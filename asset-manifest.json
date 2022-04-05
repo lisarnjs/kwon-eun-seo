@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kwon-eun-seo/static/css/main.1cf38b96.css",
-    "main.js": "/kwon-eun-seo/static/js/main.7f22274f.js",
+    "main.js": "/kwon-eun-seo/static/js/main.de865381.js",
     "index.html": "/kwon-eun-seo/index.html",
     "main.1cf38b96.css.map": "/kwon-eun-seo/static/css/main.1cf38b96.css.map",
-    "main.7f22274f.js.map": "/kwon-eun-seo/static/js/main.7f22274f.js.map"
+    "main.de865381.js.map": "/kwon-eun-seo/static/js/main.de865381.js.map"
   },
   "entrypoints": [
     "static/css/main.1cf38b96.css",
-    "static/js/main.7f22274f.js"
+    "static/js/main.de865381.js"
   ]
 }
